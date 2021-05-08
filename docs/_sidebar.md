@@ -1,3 +1,5 @@
+- Hello world
+
 - JavaScript
   - [闭包](closure.md)
   - [原型](prototype.md)
