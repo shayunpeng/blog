@@ -1,5 +1,7 @@
+- [笔者信息](zh-cn/me.md)
+
 - 前言
-    - [简介](zh-cn/README.md)
+    - [简介(测试)](zh-cn/README.md)
     
 - C++
     - [基础](zh-cn/C++/base.md)
